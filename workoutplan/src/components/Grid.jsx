@@ -51,7 +51,7 @@ export default function Grid() {
         const isLocked = workoutIndex === 0 ?
         false :
         !completedWorkouts.includes(`${workoutIndex -1}`) 
-        const type = workoutIndex % 3 === 0 ? 'Upper Body' : workoutIndex % 3 === 1 ? 'Legs' : 'Cardio/ETC.'
+        const type = workoutIndex % 3 === 0 ? 'Upper Body' : workoutIndex % 3 === 1 ? 'Legs' : 'Pull/Cardio'
         const trainingPlan = training_plan[workoutIndex]
         const dayNum = ((workoutIndex/8) <=1)? '0'+ (workoutIndex + 1) : workoutIndex + 1
         const icon = workoutIndex % 3 === 0 ? (

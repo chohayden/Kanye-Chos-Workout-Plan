@@ -9,8 +9,8 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: '8-10' },
             { name: "Lateral Raises", sets: 4, reps: '8-10' },
             { name: "Curls", sets: 4, reps: '10-15' },
-            { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Seated dumbbell press", sets: 4, reps: '8-10' },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: '8-10' }
         ]
     },
@@ -31,8 +31,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
         workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+        
         ]
     },
     3: {  // uPPER BODY
@@ -41,8 +43,8 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -63,8 +65,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+         
         ]
     },
     6: {  // upper body
@@ -73,8 +77,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
+            
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -95,8 +100,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+            
         ]
     },
     9: {  // Upper Body
@@ -109,8 +116,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
+           
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -131,8 +139,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+          
         ]
     },
     12: {  // Upper Body
@@ -145,8 +155,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
+       
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -167,8 +178,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
       workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+          
         ]
     },
     15: {  // Upper Body
@@ -181,8 +194,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
+         
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -203,8 +217,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
         workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+          
         ]
     },
     18: {  // Upper Body
@@ -217,8 +233,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
+      
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -239,8 +256,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+          
         ]
     },
     21: {  // Upper Body
@@ -253,8 +272,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
+          
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -275,8 +295,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
       workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+          
         ]
     },
     24: {  // Upper Body
@@ -289,8 +311,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps:" 8-10" },
             { name: "Curls", sets: 4, reps: "10-15" },
-            { name: "Lat pulldown", sets: 4, reps: "8-10" },
+         
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
         ]
     },
@@ -311,8 +334,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
      workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+       
         ]
     },
     27: {  // Upper Body
@@ -325,8 +350,9 @@ export const workoutProgram = {
             { name: "Incline bench press", sets: 4, reps: '8-10' },
             { name: "Lateral Raises", sets: 4, reps: '8-10' },
             { name: "Curls", sets: 4, reps: 10-15 },
-            { name: "Lat pulldown", sets: 4, reps: 8-10 },
+          
             { name: "Seated dumbbell press", sets: 4, reps: 8-10 },
+            { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: 8-10 }
         ]
     },
@@ -347,8 +373,10 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
       workout: [
+            { name: "Lat pulldown", sets: 4, reps: '8-10' },
+            { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
-            { name: "Bike", sets: 1, reps:888 }  // 888 = as far as you can go
+         
         ]
     }
 }
@@ -365,6 +393,7 @@ export const exerciseDescriptions = {
     "Lat pulldown": "Sit at a lat pulldown machine, pull the bar down to your chest while engaging your lats, and return to the starting position.",
     "Seated dumbbell press": "Sit on a bench with back support, hold dumbbells at shoulder height, and press them overhead until your arms are fully extended.",
     "Dumbbell skull crushers": "Lie on a bench, holding dumbbells with arms extended. Bend your elbows to lower the weights toward your forehead, then extend your arms back up.",
+    "Shrugs": "Hold dumbbells at your sides and lift your shoulders towards your ears, squeezing your trapezius muscles at the top, then lower back down.",
  
    
     "Romanian split squats": "Stand in a split stance with one foot forward and the other back. Lower your body by bending your front knee while keeping your back leg straight, then return to the starting position.",
