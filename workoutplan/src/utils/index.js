@@ -394,6 +394,7 @@ export const exerciseDescriptions = {
     "Seated dumbbell press": "Sit on a bench with back support, hold dumbbells at shoulder height, and press them overhead until your arms are fully extended.",
     "Dumbbell skull crushers": "Lie on a bench, holding dumbbells with arms extended. Bend your elbows to lower the weights toward your forehead, then extend your arms back up.",
     "Shrugs": "Hold dumbbells at your sides and lift your shoulders towards your ears, squeezing your trapezius muscles at the top, then lower back down.",
+    "Barbell Row": "Bend at the hips with a slight bend in your knees, hold a barbell with an overhand grip, and pull it towards your lower ribcage, squeezing your shoulder blades together.",
  
    
     "Romanian split squats": "Stand in a split stance with one foot forward and the other back. Lower your body by bending your front knee while keeping your back leg straight, then return to the starting position.",
