@@ -8,7 +8,6 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: '8-10' },
             { name: "Incline bench press", sets: 4, reps: '8-10' },
             { name: "Lateral Raises", sets: 4, reps: '8-10' },
-            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Seated dumbbell press", sets: 4, reps: '8-10' },
             { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: '8-10' }
@@ -31,6 +30,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
         workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -42,7 +42,6 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10" },
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
-            { name: "Curls", sets: 4, reps: 10-15 },
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
@@ -65,6 +64,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -76,8 +76,6 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10" },
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
-            { name: "Curls", sets: 4, reps: 10-15 },
-            
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
             { name: "Dumbbell skull crushers", sets: 4, reps: "8-10" }
@@ -100,6 +98,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -115,7 +114,7 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10" },
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
-            { name: "Curls", sets: 4, reps: 10-15 },
+           
            
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
@@ -139,6 +138,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -154,7 +154,7 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10" },
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
-            { name: "Curls", sets: 4, reps: 10-15 },
+            
        
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
@@ -178,6 +178,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
       workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -193,7 +194,7 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10" },
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
-            { name: "Curls", sets: 4, reps: 10-15 },
+            
          
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
@@ -217,6 +218,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
         workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -232,7 +234,7 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10" },
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
-            { name: "Curls", sets: 4, reps: 10-15 },
+           
       
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
@@ -256,6 +258,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
        workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -271,7 +274,7 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10" },
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps: "8-10" },
-            { name: "Curls", sets: 4, reps: 10-15 },
+          
           
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
@@ -295,6 +298,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
       workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -310,7 +314,7 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: "8-10 "},
             { name: "Incline bench press", sets: 4, reps: "8-10" },
             { name: "Lateral Raises", sets: 4, reps:" 8-10" },
-            { name: "Curls", sets: 4, reps: "10-15" },
+          
          
             { name: "Seated dumbbell press", sets: 4, reps: "8-10" },
             { name: "Shrugs", sets: 4, reps: '10-15' },
@@ -334,6 +338,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
      workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
@@ -349,7 +354,7 @@ export const workoutProgram = {
             { name: "Barbell bench press", sets: 4, reps: '8-10' },
             { name: "Incline bench press", sets: 4, reps: '8-10' },
             { name: "Lateral Raises", sets: 4, reps: '8-10' },
-            { name: "Curls", sets: 4, reps: 10-15 },
+        
           
             { name: "Seated dumbbell press", sets: 4, reps: 8-10 },
             { name: "Shrugs", sets: 4, reps: '10-15' },
@@ -373,6 +378,7 @@ export const workoutProgram = {
             { name: "Stretch", sets: 1, reps: 10 }
         ],
       workout: [
+            { name: "Curls", sets: 4, reps: '10-15' },
             { name: "Lat pulldown", sets: 4, reps: '8-10' },
             { name: "Barbell Row", sets: 4, reps: '8-10' },
             { name: "Run", sets: 1, reps: 888 }, // 888 = as far as you can go
