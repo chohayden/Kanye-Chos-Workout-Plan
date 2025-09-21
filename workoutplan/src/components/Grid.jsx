@@ -48,9 +48,9 @@ export default function Grid() {
     <div className="training-plan-grid"> 
     {Object.keys(training_plan).map((workout, workoutIndex) => { 
 
-        const isLocked = workoutIndex === 0 ?
-        false :
-        !completedWorkouts.includes(`${workoutIndex -1}`) 
+       const isLocked = workoutIndex === 0 ?
+       false :
+       !completedWorkouts.includes(`${workoutIndex -1}`) 
         const type = workoutIndex % 3 === 0 ? 'Upper Body' : workoutIndex % 3 === 1 ? 'Legs' : 'Pull/Cardio'
         const trainingPlan = training_plan[workoutIndex]
         const dayNum = ((workoutIndex/8) <=1)? '0'+ (workoutIndex + 1) : workoutIndex + 1

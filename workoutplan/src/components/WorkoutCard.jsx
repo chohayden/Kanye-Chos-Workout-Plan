@@ -5,7 +5,7 @@ import { exerciseDescriptions } from '../utils'
 export default function WorkoutCard(props) {
     const {trainingPlan, workoutIndex, type, dayNum, icon, savedWeights, handleSave, handleComplete} = props
 
-const{warmup, workout} = trainingPlan || {}
+const {warmup = [], workout = []} = trainingPlan || {}
 const [showExerciseDescription, setShowExerciseDescription] = useState(null)
 const [weights, setWeights] = useState(savedWeights || {})
 
